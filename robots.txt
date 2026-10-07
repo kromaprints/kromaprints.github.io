@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kromaprints.github.io/sitemap.xml
